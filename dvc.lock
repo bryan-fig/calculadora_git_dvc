@@ -5,8 +5,8 @@ stages:
     deps:
     - path: datos/operaciones.csv
       hash: md5
-      md5: bf378626416414027e1d14f89503af06
-      size: 13356
+      md5: 2ff10d50bca4f70aa4a0ea707e20e46a
+      size: 13019
     - path: scripts/procesar.py
       hash: md5
       md5: 6b213fc2f53874ad3c0082f82beb7f5e
@@ -14,5 +14,5 @@ stages:
     outs:
     - path: resultados/resumen.csv
       hash: md5
-      md5: 99a24cbf1f4e8fae9815325fb95437d3
-      size: 158
+      md5: 36cf0c1a2d80db4155f3911f8ea552cd
+      size: 147
